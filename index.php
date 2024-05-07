@@ -6,7 +6,7 @@ $邮箱='admin@admin.com';
 $统计='';
 
 $资源接口='https://apiyutu.com/api.php/provide/vod/at/xml';
-$资源分类='<ty id="20">精品推荐</ty><ty id="21">国产精品</ty><ty id="22">主播秀色</ty><ty id="23">日本有码</ty><ty id="24">日本无码</ty><ty id="25">中文字幕</ty><ty id="26">童颜巨乳</ty><ty id="27">性感人妻</ty><ty id="28">强奸乱伦</ty><ty id="29">欧美情色</ty><ty id="30">童真萝莉</ty><ty id="31">三级伦理</ty><ty id="32">卡通动漫</ty><ty id="33">丝袜OL</ty><ty id="34">口爆颜射</ty><ty id="35">自拍偷拍</ty><ty id="36">日本片商</ty><ty id="37">Cosplay</ty><ty id="38">素人自拍</ty><ty id="39">台湾色情</ty><ty id="40">韩国自拍</ty><ty id="41">性感港姐</ty><ty id="42">东南亚情色</ty><ty id="43">凌辱束缚</ty><ty id="44">剧情介绍</ty><ty id="45">多P 3P</ty><ty id="46">91系列</ty><ty id="47">网红系列</ty><ty id="48">野外系列</ty><ty id="49">女仆系列</ty><ty id="50">学生中出</ty><ty id="51">性感旗袍</ty><ty id="52">兽耳作品</ty><ty id="53">瑜伽裤</ty><ty id="54">骚货护士</ty><ty id="55">及膝袜</ty><ty id="56">网曝系列</ty><ty id="57">麻豆传媒</ty><ty id="58">女同人妖</ty><ty id="59">恋腿癖</ty>';
+$资源分类='<ty id="20">精品推荐</ty>';
 
 //资源分类copy资源站分类，在 资源站接口?ac=videolist，查看源代码，一般在最底下，注意只复制<ty到</ty>
 $资源替换=array('tu.php'=>'https://www.tv6.com/tu.php');
