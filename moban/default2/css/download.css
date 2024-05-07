@@ -1,0 +1,92 @@
+
+/*---------end download--------*/
+.mvname {margin:0px 10px;border-bottom:1px dotted #cccccc;padding-bottom:5px;}
+.mvname strong {color:#cc0000;font-size:14px;padding:0px 3px;}
+.contentinfob {margin:0px 0px 0px 10px;}
+.contentinfob li {color:#999999;}
+.contentinfob strong {color:#383838;font-weight:normal;}
+.contentinfob strong.ctt {margin-left:15px;}
+.contentinfob a {margin:0px 3px;color:#888888;text-decoration:underline;}
+.contentc {margin:0px auto auto 10px;color:#888888;width:170px;}
+.contentc a {color:#c00000;text-decoration:underline;}
+.contentc a:hover {color:#fff;background:#c00000;}
+.contentc h6 {color:#000;margin:10px 0px;border-bottom:1px dotted #cccccc;}
+.downloadlist {width:1200px;margin:10px 13px; solid #e8e8e8;}
+.dlist {background:#fff;}
+.downloadlist ul {padding:10px;float:left;}
+.downloadlist ul li {border-bottom:1px solid #efefef;padding:3px 0px;float:left;width:1190px;}
+.downloadlist ul li.over .bcaxl a:hover {color:#F57900; text-indent:-1000em;}
+.downloadlist ul li.over {background:#f0fbff;}
+.downloadlist ul li.over em.title { color:#ff0000;}
+.downloadlist ul li.over em.typec { color:#ff0000;}
+.downloadlist ul li em {float:left;margin:0px 2px;}
+.downloadlist ul li a {float:right;margin:0px 2px; text-decoration:none;background:#249FF1; color:#fff; text-align:center; width:65px; line-height:25px; }
+.downloadlist ul li a:hover { background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat -156px -871px #1889d4;text-indent:-1000em;}
+.downloadlist ul li a.flashget{background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 0px -510px;margin-right:5px;}
+.downloadlist ul li a.lixian{background: #29a618;}
+.downloadlist ul li a.lixian:hover {background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat -61px -871px #1a930a;}
+.downloadlist ul li .bca a { background:#ff6c00;}
+.downloadlist ul li .bca a:hover {background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 25px -871px #ff4900;}
+.downloadlist ul li .hezuo { float:right;}
+.downloadlist ul li .hezuo a { background:#bf33c4; float:left;}
+.downloadlist ul li .hezuo a:hover { background:#f623fe;text-indent:0px;}
+.cbox {float:left;}
+.downloadlist h4 ,.downtitlea {height:25px;font-size:15px;line-height:25px;text-indent:10px;border-bottom:1px solid #e8e8e8;background:url("../css/bg.gif")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/bg.gif*/ repeat-x 0px -359px;text-indent:10px;}
+.downtitlea {margin-bottom:10px;}
+.downloadlist h4 strong  ,.downtitlea strong{float:left;color:#e00000;text-indent:-999px;width:150px;background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 0px -320px;}
+.downloadlist h4 em {float:right;padding-right:10px;font-size:12px; letter-spacing:normal;}
+.downloadlist h4 em a{ color:#F00; text-decoration:underline;}
+.downloadall {margin:0px 10px 15px 10px;height:26px;line-height:26px;}
+.downloadall strong{font-weight: normal;color:#383838;margin:0px 5px;float:left;}
+.downloadall strong a{background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat -170px -868px #249FF1;float:left; height:30px; line-height:30px; text-align:center; display:block; color:#fff; padding:0px 15px 0px 25px;}
+.downloadall strong a:hover { background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat -170px -868px #fd1ada;}
+.downloadall strong a.flashget{background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 10px -508px;}
+.downloadall a { line-height:30px; color:#fff;}
+.downloadall a:hover {text-decoration:none;}
+.downloadall em {float:left;}
+.downloadall span { background:#29A618; float:right; padding-right:8px; color:#fff; line-height:30px;}
+.downloadall span a { color:#fff; background:#ff6600; float:left; padding:0px 8px; margin-right:8px;height:30px; line-height:30px;}
+.downloadall span a:hover { background:#249FF1; color:#fff;}
+.downloadall a.wrong{font-weight:normal;padding:0px 0px;float:left; margin:0px; background:#00bc12;}
+.downloadall a:hover.wrong {color:#fff;background:#fc0000;}
+.downloadall .cbox { margin:7px 5px 0px 5px;}
+.downloadpc{height:25px;font-size:15px;line-height:25px;text-indent:10px;border:1px solid #e8e8e8;background:url("../css/bg.gif")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/bg.gif*/ repeat-x 0px -359px;text-indent:10px;font-size:12px;padding:8px 0px;}
+.downloadpc em {text-align:right;float:right;padding-right:5px;}
+.pc3gp {float:left;color:#e00000;text-indent:-999px;width:200px;background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 0px -620px;}
+.pcmp4 {float:left;color:#e00000;text-indent:-999px;width:200px;background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 0px -590px;}
+.pcgmp4{float:left;color:#e00000;text-indent:-999px;width:200px;background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 0px -560px;}
+.pcrmvb{float:left;color:#e00000;text-indent:-999px;width:200px;background:url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 0px -830px;}
+.downloadpct {border:1px solid #e8e8e8;border-top:none;margin-bottom:10px;padding:10px;text-align:right;color:#cccccc;overflow:hidden;line-height:35px;background:#E4EFD3;}
+.downloadpct a {float:left;margin-right:5px;padding:5px 20px;height:35px;border:1px solid #7FB436;background:#7FB436;color:#fff;font-size:15px;}
+.downloadpct a:hover {border:1px solid #ff9900; background:#ff9900; color:#fff; text-decoration:none;}
+.downloadrightad1 {width:960px;}
+.downloadrightad2 {margin:15px auto;width:960px;}
+#rightcontent {float:right; width:160px; margin:0px auto 15px auto;}
+.searchyear { margin:13px;border:1px solid #e8e8e8; padding:10px 0px; background:#fff; font-size:12px;}
+.searchyear table th { width:100px; text-align:right;}
+.searchyear table td { padding-bottom:5px; color:#999999;}
+.searchyear table td a { padding:0px 5px; background:#fff; border:1px dotted #e8e8e8; margin:3px 8px 3px 0px; height:20px; width:55px; float:left; text-align:center;}
+.searchyear table td em { float:left; overflow:hidden; height:30px; line-height:20px;}
+.goyear { color:#999999; font-size:12px; padding:0px 3px; float:left; margin-top:4px; height:18px; line-height:20px; width:150px;}
+.goyearbtn { background:url("../css/bg.gif")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/bg.gif*/ repeat-x 0px -200px; border:1px solid #e8e8e8; text-align:center; float:left; margin-top:4px; width:60px; height:22px; margin-left:10px; font-family:"微软雅黑"; cursor:pointer;}
+.searchyear table td a.linknew { line-height:18px; width:85px; height:16px; overflow:hidden; text-align:left; float:left; border:none; background:none; padding:0px 5px;}
+.searchyear table td a.more { float:left; font-style:normal; color:#999999; background: url("../css/icon.png")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/icon.png*/ no-repeat 55px -316px; height:22px; line-height:22px; padding:0px 25px 0px 10px; text-align:left; border:none; } 
+/*---------end download--------*/
+/*----------start downnload--------------*/
+.download {margin-bottom:10px;width:660px;height:77px;overflow:hidden;float:left;}
+.download ul {float:left;width:630px;margin-left:13px;}
+.download ul li {float:left;border:1px solid #e8e8e8;width:630px;height:75px;margin-bottom:10px;background:url("../css/bg.gif")/*tpa=<!--模板由 m1938工作室出品www.m1938.com -->/template/qyule/images/bg.gif*/ repeat-x 0px -43px;}
+.download ul li.over {float:left;border:1px solid #dfdfdf;width:630px;height:75px;background:none;cursor:pointer;}
+.download ul li strong {float:left;width:500px;height:25px;overflow:hidden;line-height:25px;margin:13px auto auto auto;font-size:14px;cursor:pointer; color:#000;}
+.download ul li strong a {color:#000;display:block;cursor:pointer;}
+.download ul li strong a:hover {color:#e00000;cursor:pointer;}
+.download ul li em {float:left;color:#999999;cursor:pointer;}
+.mp4pic {margin:10px;float:left;width:85px;height:55px;}
+.rmvbpic {margin:10px;float:left;width:85px;height:55px;}
+.boplaytop {clear:both;width:630px;overflow:hidden;margin:10px auto;}
+.dltopa { clear:both; width:630px; overflow:hidden; margin:5px auto;}
+.xzlb_mc { float:left; width:960px; text-overflow:ellipsis; white-space:nowrap; overflow:hidden;}
+.xzlb_mc em.title { float:left;text-overflow:ellipsis; white-space:nowrap; overflow:hidden; width:210px;}
+.xzlb_ff { float:right; height:25px; overflow:hidden; width:220px;}
+.xzlb_mc input { float:left;}
+.typec { color:#FF4500;}
